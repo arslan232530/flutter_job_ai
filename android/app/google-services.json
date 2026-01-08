@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709309203546",
+    "project_id": "flutterjob-8d69f",
+    "storage_bucket": "flutterjob-8d69f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709309203546:android:cabf90e85a7bd762a50463",
+        "android_client_info": {
+          "package_name": "com.example.job_board"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1s-4VgquIy0NYsXB0J4QuYpZmavuMRVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
