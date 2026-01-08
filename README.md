@@ -93,10 +93,5 @@ It is **not a tutorial or demo app**, but a portfolio-grade implementation.
 
 ---
 
-## 📸 Screenshots
-_Add screenshots or screen recordings here_
-
----
-
 ## 📄 License
 This project is for educational and portfolio use.
